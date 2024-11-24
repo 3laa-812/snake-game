@@ -1,0 +1,20 @@
+#gameContainer{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+#score{
+  font-size: 50px;
+}
+
+#gameBord{
+  border: 3px solid;
+}
+
+#resetBtn{
+  width: 100px;
+  height: 50px;
+  font-size: 22px;
+  border: 4px solid;
+  border-radius: 15px;
+  cursor: pointer;
+}
